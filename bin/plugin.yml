@@ -1,0 +1,16 @@
+name: NoMove
+main: me.bukkit.nomove.NoMove
+version: 1.0
+commands:
+    savespawnloc:
+        description: Saves location youre standing at to spawn locations.
+        usage: /<command>
+    setupbasic:
+        description: Will start the game using the basic loadup.
+        usage: /<command>
+    check:
+        description: Check command
+        usage: /<command>
+    hgspec:
+        description: Add/Remove players from spectators
+        usage: /<command>
